@@ -25,6 +25,7 @@ git pull origin main
 
 ***Members :*** 
 Ranjith -
+vikas -
 Venkat - html tailwind css and bootstrap 
 ```
 
